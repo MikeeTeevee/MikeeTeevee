@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeeTeevee
-- 👀 I’m interested in ...Scrum, Agile, Srum Mastering 
-- 🌱 I’m currently learning ...SQL, Javascript, Agile
+- 👀 I’m interested in ...Scrum, Agile, Srum Mastering, Kanban
+- 🌱 I’m currently learning ...SQL, Javascript, Agile, Kanban processes
 - 💞️ I’m looking to collaborate on ...Development, Wb and App delvelopment
 - 📫 How to reach me ...
 
